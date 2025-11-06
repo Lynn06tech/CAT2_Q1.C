@@ -1,3 +1,5 @@
+Array data structure is a fixed size collection of similar data items storedin contiguous memory locations 
+
 /*
 Name:Wamagata Lynn Njeri
 Reg.no:CT101/G/26423/25
